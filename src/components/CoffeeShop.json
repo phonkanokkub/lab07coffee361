@@ -1,0 +1,41 @@
+[
+    {
+      "id": 1,
+      "name": "Too Night Nimman",
+      "coverimage": "https://www.thai2night.com/upload/shop/photo_cover/master/shop_shop_photo_cover_7578_1616510458.jpg",
+      "upmore": "ดูเพิ่มเติม"
+    },
+    {
+        "id": 2,
+        "name": "LVMC, Living Machine Bar & Break",
+        "coverimage": "https://img.wongnai.com/p/1920x0/2017/09/12/dbfe8ce0012349a7a8df645839cb98d6.jpg",
+        "upmore": "ดูเพิ่มเติม"
+      },
+      {
+        "id": 3,
+        "name": "goof bar&table",
+        "coverimage": "https://www.eatingoutmap.com/article_pic/67100%201689339331_888-01.jpg",
+        "upmore": "ดูเพิ่มเติม"
+      },
+      {
+          "id": 4,
+          "name": "Newtown Nimman",
+          "coverimage": "https://www.awaygpub.com/wp-content/uploads/2023/03/323630170_1729127950894301_2544013685562521713_n-1024x683.jpg",
+          "upmore": "ดูเพิ่มเติม"
+      },
+      {
+            "id": 5,
+            "name": "Ground",
+            "coverimage": "https://img.wongnai.com/p/400x0/2020/01/27/c99c924b836642c48a6275edd80a856c.jpg",
+            "upmore": "ดูเพิ่มเติม"
+     },
+     {
+              "id": 6,
+              "name": "Zoe In Yellow Chiang Mai",
+              "coverimage": "https://149355992.v2.pressablecdn.com/wp-content/uploads/2019/07/Main-Street-Zoe-in-Yellow-Chiang-Mai-Thailand.jpg",
+              "upmore": "ดูเพิ่มเติม"
+     }
+          
+      
+    
+]
